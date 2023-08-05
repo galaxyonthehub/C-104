@@ -1,0 +1,27 @@
+body
+{
+  color: rgb(0, 0, 0);
+  background: linear-gradient( rgb(56, 56, 56), rgb(45, 0, 71));
+
+}
+.heading
+{
+  width: 80%;
+  font-size: 22px;
+}
+#camera 
+{
+  
+  width: 350px;
+  height: 300px; 
+  border-radius: 15px;
+
+}
+.nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+{
+  color: rgb(0, 0, 0);
+}
+.login_div
+{
+	background: rgba(190, 190, 190, 0.8);float: none;border-radius: 15px;
+}
